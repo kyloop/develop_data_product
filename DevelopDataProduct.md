@@ -1,7 +1,7 @@
 Coursera Developing Data Product Project
 ========================================================
 author: K.Y.
-date: Mon Jul 11 14:38:39 2016
+date: Mon Jul 11 14:49:58 2016
 autosize: true
 
 Project Overview
@@ -15,6 +15,8 @@ For application app, please visit
 For coding information, please visit:
  <https://github.com/kyloop/develop_data_product.git>
 
+For presentation, please visit:
+ <http://rpubs.com/kyquant/developing_data_product>
 
 Application Overview
 ========================================================
@@ -33,5 +35,5 @@ Application Screenshot
 ========================================================
 
 ![alt text](SS1.png)
-***
+
 Please check out the screenshot on the left, users are able to slide the option bar to search out which vehicles are fulfilled their criteria.
